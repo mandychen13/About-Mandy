@@ -27,7 +27,7 @@ struct ContentView: View {
                     .multilineTextAlignment(.center)
                 Text("This is my first summer at Kode with Klossy!")
                     .multilineTextAlignment(.center)
-                Text("I love to travel.")
+                Text("I love to travel!")
                     .foregroundColor(Color.purple)
                     .multilineTextAlignment(.center)
                 Text("My favorite color is pink.")
